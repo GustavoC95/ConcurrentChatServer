@@ -1,8 +1,9 @@
-package org.academiadecodigo.bootcamp65;
+package chatServer.server;
+
+import chatServer.client.UserThread;
 
 import java.net.ServerSocket;
 import java.net.Socket;
-import java.util.HashMap;
 import java.util.Map;
 import java.util.concurrent.ConcurrentHashMap;
 import java.util.concurrent.ExecutorService;

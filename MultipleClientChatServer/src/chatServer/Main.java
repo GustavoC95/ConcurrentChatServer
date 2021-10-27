@@ -1,4 +1,6 @@
-package org.academiadecodigo.bootcamp65;
+package chatServer;
+
+import chatServer.server.ChatServer;
 
 public class Main {
 

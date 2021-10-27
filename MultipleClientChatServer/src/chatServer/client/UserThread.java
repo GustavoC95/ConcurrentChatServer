@@ -1,4 +1,6 @@
-package org.academiadecodigo.bootcamp65;
+package chatServer.client;
+
+import chatServer.server.ChatServer;
 
 import java.io.BufferedReader;
 import java.io.InputStreamReader;
