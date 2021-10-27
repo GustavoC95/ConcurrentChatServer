@@ -1,13 +1,13 @@
-#Concurrent Chat Server
+# Concurrent Chat Server
 Simple multiple client chat server.
 
-##Technologies
+## Technologies
 Project is created with:
 * Java 1.7
 * Java Socket
 * Java IO
 
-##Setup
+## Setup
 To build this project using ant:
 ```
 $ git clone https://github.com/GustavoC95/ConcurrentChatServer.git
